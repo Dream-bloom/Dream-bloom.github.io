@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[明天会更好]]></title>
+    <url>%2F2017%2F05%2F09%2F%E6%98%8E%E5%A4%A9%E4%BC%9A%E6%9B%B4%E5%A5%BD%2F</url>
+    <content type="text"><![CDATA[春风不解风情，吹动少年的心。]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[article]]></title>
+    <url>%2F2017%2F05%2F09%2Farticle%2F</url>
+    <content type="text"><![CDATA[每一天都不同]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2017%2F04%2F09%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
